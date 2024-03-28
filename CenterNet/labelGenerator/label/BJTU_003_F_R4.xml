@@ -1,0 +1,28 @@
+<annotation>
+	<folder>BJTU</folder>
+	<filename>BJTU_003_F_R4.jpg</filename>
+	<path>D:\Data\code\imglabel\annotation_images(不超框)\images\BJTU\BJTU_003_F_R4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmprint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>212.4655</cx>
+			<cy>456.5828</cy>
+			<w>237.149</w>
+			<h>282.1804</h>
+			<angle>5.828589</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>

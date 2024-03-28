@@ -1,0 +1,28 @@
+<annotation>
+	<folder>fail_images</folder>
+	<filename>BJTU_002_F_R3.png</filename>
+	<path>/home/lee/桌面/data1/code/PalmALNet/labelImg2-master/fail_images/BJTU_002_F_R3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmprint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>220.3947</cx>
+			<cy>469.6277</cy>
+			<w>300.726</w>
+			<h>262.4633</h>
+			<angle>5.850936</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>
