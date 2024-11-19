@@ -19,6 +19,7 @@ We use a modified Centeret as the palmprint CROI extractor. The source code come
 * Open the (train.py) file, set the names of backbone, epoch, batch_size and network weights and then run (train.py) for training.
 ### The CROI extraction from unseen palmprint images
 * Open (predict.py), set the path to load the weight file and save the CROI, and then run (predict.py) for palmprint CROI extraction.
+* This project provides a simple weight file res34_best.pth for testing. (https://drive.google.com/file/d/1-DfZiG-BN6ZyCS03B3x73PDz_SQOExos/view?usp=sharing)
 * Under the path where the CROI is saved, the CROI of the xx data set is extracted to the xx folder, for example:
   * CAISA ![image](ret/casia.png)
   * IITD ![image](ret/iitd.png)
